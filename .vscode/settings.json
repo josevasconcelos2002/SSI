@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./aula1"
+    ],
+    "cSpell.words": [
+        "vigenere"
+    ]
+}
