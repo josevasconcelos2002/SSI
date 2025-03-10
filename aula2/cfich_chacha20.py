@@ -40,7 +40,7 @@ def enc(fich, fkey):
         
         output_file = fich + ".enc"
 
-        # Salvar o NONCE + dados cifrados no arquivo de saída
+        # Salvar o NONCE no ficheiro de output
         with open(output_file, "wb") as file3:
             file3.write(nonce)
             file3.write(encrypted)
@@ -114,7 +114,7 @@ def main(argc, argv):
             print("USAGE: python3 cfich_chacha20.py dec <fich> <fkey>")
     
     else:
-        print("Operação inválida. Use 'setup', 'enc' ou 'dec'.")
+        print("Operação inválida. Utilize 'setup', 'enc' ou 'dec'.")
 
 
 if __name__ == '__main__':
