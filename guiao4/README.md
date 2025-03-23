@@ -63,7 +63,7 @@
 
 **7.** Execute os comandos *id* e *groups* e comente o resultado impresso no terminal.
 
-* Neste exercício, a resposta pode ser dada sob a forma de um comentário no script.
+* Neste exercício, a resposta pode ser dada sob a forma de um comentário no *script*.
 
 
 **8.** Leia o conteúdo do ficheiro *braga.txt*. Observou alguma diferença?.
