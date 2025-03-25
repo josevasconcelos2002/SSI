@@ -39,7 +39,7 @@
 
 ### Grupo 2
 
-**0.** Observe o conteúdo dos ficheiros */etc/passwd* e */etc/groups*.
+**0.** Observe o conteúdo dos ficheiros */etc/passwd* e */etc/group*.
 
 
 **1.** Crie um utilizador para cada membro da equipa.
