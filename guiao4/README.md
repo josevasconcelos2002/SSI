@@ -44,6 +44,12 @@
 
 **1.** Crie um utilizador para cada membro da equipa.
 
+![user_joao](./assets/grupo2/user_joao.jpg)
+
+![user_jose](./assets/grupo2/user_jose.jpg)
+
+![user_tomas](./assets/grupo2/user_tomas.jpg)
+
 **2.** Crie o grupo *grupo-ssi* contendo todos os elementos da equipa, e crie um segundo grupo *par-ssi* contendo apenas 2 elementos da equipa.
 
 
