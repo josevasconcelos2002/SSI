@@ -52,6 +52,8 @@
 
 **2.** Crie o grupo *grupo-ssi* contendo todos os elementos da equipa, e crie um segundo grupo *par-ssi* contendo apenas 2 elementos da equipa.
 
+![exercicio_2](./assets/grupo2/grupo2_ex2.jpg)
+
 
 **3.** Observe novamente o conteúdo dos ficheiros */etc/passwd* e */etc/groups*. Observou alguma diferença?
 
